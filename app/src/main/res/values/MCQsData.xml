@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="MCQsData">
+        <item>Name of the screen that recognizes touch input is</item>
+        <item>Recog screen</item>
+        <item>Point Screen</item>
+        <item>Android Screen</item>
+        <item>Touch Screen</item>
+
+        <item>Identify the device through which data and instructions are entered into a computer</item>
+        <item>Software</item>
+        <item>Output device</item>
+        <item>Memory</item>
+        <item>Input device</item>
+
+        <item>Computer Moniter is also known as :</item>
+        <item>DVU</item>
+        <item>UVD</item>
+        <item>CCTV</item>
+        <item>VDU</item>
+
+        <item>A computer cannot "boot" if it does not have the _____</item>
+        <item>Compiler</item>
+        <item>Loader</item>
+        <item>Assembler</item>
+        <item>Operating system</item>
+
+        <item>________ is the process of dividing the disk into tracks and sectors</item>
+        <item>Tracking</item>
+        <item>Crashing</item>
+        <item>Allotting</item>
+        <item>Formatting</item>
+
+        <item>By default, your documents print in ________ mode.</item>
+        <item>Landscape</item>
+        <item>Page Setup</item>
+        <item>Print View</item>
+        <item>Portrait</item>
+
+        <item>Which was the first electronics digital programmable computing device?</item>
+        <item>Analytical Engine</item>
+        <item>Difference Engine</item>
+        <item>Colossus</item>
+        <item>ENIAC</item>
+
+        <item>Batch processing was mainly used in this generation.</item>
+        <item>2nd</item>
+        <item>3rd</item>
+        <item>4th</item>
+        <item>1st</item>
+
+        <item>HLL stands for?</item>
+        <item>High Layman’s Language</item>
+        <item>High Level Lesson</item>
+        <item>High Layman’s Lesson</item>
+        <item>High Level Language</item>
+
+        <item>The period of ________ generation was 1952-1964.</item>
+        <item>1st</item>
+        <item>5rd</item>
+        <item>4th</item>
+        <item>2nd</item>
+
+    </string-array>
+</resources>

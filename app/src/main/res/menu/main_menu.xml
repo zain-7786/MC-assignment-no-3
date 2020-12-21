@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Assignment no 1">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item android:id="@+id/calculator"
+                    android:icon="@drawable/baseline"
+                    android:title="@string/calculator"
+                    />
+            </group>
+        </menu>
+    </item>
+    <item android:title="Assignment no 2">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item android:id="@+id/myquiz"
+                    android:icon="@drawable/quiz"
+                    android:title="@string/quiz"
+                    />
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="Assignment no 3">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item android:id="@+id/assign3"
+                    android:icon="@drawable/work"
+                    android:title="@string/assign"
+                    />
+            </group>
+        </menu>
+    </item>
+
+</menu>
