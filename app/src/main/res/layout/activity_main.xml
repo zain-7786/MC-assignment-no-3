@@ -21,18 +21,18 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="55dp"
-            android:background="#F57F17"
+            android:background="#ff6666"
             app:layout_constraintTop_toTopOf="parent"
             app:title="@string/app_name"
-            app:titleTextColor="#0C5DDC" />
+            app:titleTextColor="#3333cc" />
 
         <TextView
             android:id="@+id/textView3"
             android:layout_width="297dp"
             android:layout_height="316dp"
             android:layout_marginTop="108dp"
-            android:text="Welcome to the Abid's Assignment no 3"
-            android:textColor="#F6EFEF"
+            android:text="App's Home"
+            android:textColor="#bf8d8d"
             android:textSize="50sp"
             android:textStyle="bold"
             app:flow_horizontalAlign="center"

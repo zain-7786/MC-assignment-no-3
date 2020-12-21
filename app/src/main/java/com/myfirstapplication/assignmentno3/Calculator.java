@@ -46,20 +46,20 @@ public class Calculator extends AppCompatActivity {
                 switch (menuItem.getItemId())
                 {
                     case R.id.calculator :
-                        Toast.makeText(getApplicationContext(),"Calculator is clicked",Toast.LENGTH_LONG).show();
+                        Toast.makeText(getApplicationContext(),"Calculator Pressed",Toast.LENGTH_LONG).show();
                         Intent intent = new Intent(Calculator.this, Calculator.class);
                         startActivity(intent);
                         drawerLayout.closeDrawer(GravityCompat.START);
                         break;
 
                     case R.id.myquiz :
-                        Toast.makeText(getApplicationContext(),"My Quiz is clicked",Toast.LENGTH_LONG).show();
+                        Toast.makeText(getApplicationContext(),"Quiz Pressed",Toast.LENGTH_LONG).show();
                         Intent intent1 = new Intent(Calculator.this, ComputerQuiz.class);
                         startActivity(intent1);
                         drawerLayout.closeDrawer(GravityCompat.START);
                         break;
                     case R.id.assign3 :
-                        Toast.makeText(getApplicationContext(),"Opening Welcome Page",Toast.LENGTH_LONG).show();
+                        Toast.makeText(getApplicationContext(),"Home Page",Toast.LENGTH_LONG).show();
                         Intent intent2 = new Intent(Calculator.this, MainActivity.class);
                         startActivity(intent2);
                         drawerLayout.closeDrawer(GravityCompat.START);
